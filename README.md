@@ -1,1 +1,6 @@
-# coding-project-template
+
+# Dealership Review Application
+
+Repository Name: xrwvm-fullstack_developer_capstone
+
+Project Name: Dealership Review Application
